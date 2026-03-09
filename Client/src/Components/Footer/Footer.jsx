@@ -57,8 +57,10 @@ const Footer = () => {
               Mumbai - 400086,<br />
               India
             </address>
-            <p className="mt-2 text-gray-700 text-base sm:text-lg font-semibold">unnamee137gmail.com</p>
+            <p className="mt-2 text-gray-700 text-base sm:text-lg font-semibold">support@rentease.com</p>
+            <p className="mt-4 text-gray-500 text-sm italic">Developed by Sanchit (sanchitvm)</p>
             <div className="flex space-x-4 mt-4">
+
               {/* Social Media Icons */}
               <a href="#" className="text-gray-600 hover:text-gray-900">
                 <i className="fab fa-facebook-f"></i>
