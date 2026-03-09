@@ -80,7 +80,7 @@ const ContactUs = () => {
                   </div>
                   <div>
                     <p className="text-sm font-medium uppercase tracking-widest text-zinc-200 mb-1">Email Us</p>
-                    <p className="text-lg font-semibold">support@rentease.com</p>
+                    <p className="text-lg font-semibold">unnamee137gmail.com</p>
                   </div>
                 </div>
 
