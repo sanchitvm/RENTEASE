@@ -38,4 +38,11 @@ RentEase is a modern MERN stack real estate application designed to simplify pro
    - Client: `npm run dev`
    - Server: `npm start` (or `nodemon index.js`)
 
+## Author
+
+**Sanchit (sanchitvm)**
+- [GitHub Profile](https://github.com/sanchitvm)
+- [Project Repository](https://github.com/sanchitvm/RENTEASE)
+
+
 
